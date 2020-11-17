@@ -4,7 +4,7 @@
 ```
 git clone https://github.com/sf-fresher-batch-2020/your-angular-project.git
 cd your-angular-project
-git checkout -M main
+git branch
 npm install
 ng serve
 
